@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "OLIMP Agency - iGaming CPA network",
+    "description": "A CPA network with in-house media buying, specializing in iGaming. Scalable traffic and measurable results for advertisers and publishers across 30+ GEOs."
+  },
+  "nav": {
+    "about": "About",
+    "approach": "Approach",
+    "results": "Results",
+    "services": "Services",
+    "faq": "FAQ",
+    "contact": "Get in touch",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language"
+  },
+  "hero": {
+    "tagline": "CPA network with in-house media buying",
+    "pillars": [
+      "Media buying",
+      "Affiliate marketing",
+      "Performance"
+    ],
+    "lead": "A performance-driven affiliate network specializing in iGaming. We combine in-house media buying, creative strategy, and data-driven optimization to deliver scalable traffic and measurable results.",
+    "primary": "Work with us",
+    "secondary": "How we work",
+    "motto": "Same sources. Different results.",
+    "partners": "Partners"
+  },
+  "about": {
+    "title": "Who we are",
+    "text": "OLIMP Agency is a CPA network built around partnerships, performance, and real media buying experience.",
+    "text2": "Our team runs its own media buying, tests every funnel and scales only what pays back. That is why we talk to advertisers in deposits.",
+    "values": [
+      "Discipline",
+      "Experience",
+      "Growth",
+      "People"
+    ],
+    "cta": "Become a partner",
+    "body": [
+      "We work with iGaming advertisers and traffic partners, connecting offers with acquisition opportunities across international markets.",
+      "Our in-house media buying team gives us a hands-on understanding of campaign performance, traffic quality, and scaling challenges. This experience shapes how we evaluate offers, approach partnerships, and build long-term business relationships."
+    ]
+  },
+  "approach": {
+    "title": "Our approach",
+    "lead": "Every campaign goes through four stages. We never skip one.",
+    "steps": [
+      {
+        "title": "Traffic",
+        "text": "Deep expertise across multiple sources and dozens of GEOs at once."
+      },
+      {
+        "title": "Strategy",
+        "text": "Data decides what to scale and what to switch off today."
+      },
+      {
+        "title": "Creativity",
+        "text": "In-house design team. Hundreds of tests a month, only winners go live."
+      },
+      {
+        "title": "Results",
+        "text": "Transparent real-time metrics and long-term partnership."
+      }
+    ]
+  },
+  "results": {
+    "title": "More than traffic",
+    "text": "We build funnels that bring deposits for months, not for a week.",
+    "stats": [
+      {
+        "value": 10,
+        "prefix": "$",
+        "suffix": "M+",
+        "label": "in deposits generated"
+      },
+      {
+        "value": 1.2,
+        "prefix": "$",
+        "suffix": "M+",
+        "label": "paid out to partners"
+      },
+      {
+        "value": 30,
+        "prefix": "",
+        "suffix": "+",
+        "label": "active GEOs"
+      },
+      {
+        "value": 200,
+        "prefix": "",
+        "suffix": "+",
+        "label": "successful campaigns"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "lead": "We handle everything from the first click to the deposit report.",
+    "groups": [
+      {
+        "title": "Traffic sources",
+        "items": [
+          "Facebook Ads",
+          "Google Ads",
+          "TikTok",
+          "Telegram Ads",
+          "PPC and ASO",
+          "SMS and Email"
+        ]
+      },
+      {
+        "title": "Full-cycle support",
+        "items": [
+          "Strategy",
+          "Creatives",
+          "Analytics",
+          "Optimization",
+          "Personal manager"
+        ]
+      },
+      {
+        "title": "Exclusive offers",
+        "items": [
+          "Casino",
+          "Betting",
+          "Crypto",
+          "Tier-1 and Tier-2",
+          "LATAM"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "title": "From sign-up to launch",
+    "items": [
+      {
+        "title": "Sign up or message us",
+        "text": "Register on our platform as an advertiser or publisher, or write to the founders on Telegram."
+      },
+      {
+        "title": "We build the setup",
+        "text": "Your manager proposes offers, sources and terms within a day."
+      },
+      {
+        "title": "Launch and scale",
+        "text": "We go live, share real-time stats and scale what works."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions",
+    "lead": "Didn't find your answer? Message us - we reply on Telegram within an hour.",
+    "cta": "Ask a question",
+    "items": [
+      {
+        "q": "Which GEOs do you work with?",
+        "a": "Tier-1 Europe, LATAM (Brazil, Mexico, Argentina, Chile, Peru), Tier-2 and CIS. We match the exact list to each offer."
+      },
+      {
+        "q": "Which payout models are available?",
+        "a": "CPA, RevShare and Hybrid. We choose the model together, based on the product and traffic quality."
+      },
+      {
+        "q": "How fast can we launch?",
+        "a": "It usually takes one to three days from the first message to going live."
+      },
+      {
+        "q": "Do you work with brands directly?",
+        "a": "Yes. We buy traffic ourselves and work with advertisers without intermediaries."
+      },
+      {
+        "q": "What traffic do you not accept?",
+        "a": "Incentivized, fraudulent and prohibited sources. We check quality at launch and throughout."
+      },
+      {
+        "q": "Who will manage our project?",
+        "a": "A personal manager, available on Telegram. No tickets, no queues."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's build together",
+    "text": "New GEOs. New opportunities. Same mindset.",
+    "register": "Join the network",
+    "platform": "Partner platform",
+    "advertiser": {
+      "title": "Advertisers",
+      "text": "Bring your offers to our network. Register on the platform and we'll discuss GEOs, volumes and terms.",
+      "cta": "Register as advertiser"
+    },
+    "publisher": {
+      "title": "Publishers",
+      "text": "Get access to iGaming offers, tracking and payouts. Register on the platform and start sending traffic.",
+      "cta": "Register as publisher"
+    },
+    "direct": "Talk to the founders",
+    "directText": "Prefer to talk first? Write to us on Telegram or send an email.",
+    "team": {
+      "alexandr": {
+        "name": "Alexandr",
+        "role": "Co-Founder & CEO"
+      },
+      "nikita": {
+        "name": "Nikita",
+        "role": "Co-Founder & CEO"
+      }
+    },
+    "email": "Email",
+    "copy": "Copy",
+    "copied": "Copied"
+  },
+  "footer": {
+    "about": "iGaming CPA network with in-house media buying.",
+    "nav": "Navigation",
+    "contacts": "Contacts",
+    "projects": "Our projects",
+    "rights": "All rights reserved.",
+    "responsible": "18+. Play responsibly.",
+    "platform": "Platform"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The link may be outdated. Head back to the main page.",
+    "cta": "Back to home"
+  }
+}

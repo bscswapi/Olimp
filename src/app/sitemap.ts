@@ -1,0 +1,17 @@
+import type { MetadataRoute } from "next";
+import { routing } from "@/i18n/routing";
+import { site } from "@/config/site";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const languages = Object.fromEntries(
+    routing.locales.map((l) => [l, `${site.url}/${l}`]),
+  );
+
+  return routing.locales.map((locale) => ({
+    url: `${site.url}/${locale}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 1,
+    alternates: { languages },
+  }));
+}
